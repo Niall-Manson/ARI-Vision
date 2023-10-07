@@ -1,0 +1,11 @@
+10
+512
+"C:\Code\STEM\Trashbox csv files\Trashnet csv.csv"
+[4, 5]
+1
+0.01
+6d5a736273f0c1f6c05fa4471fab13a4
+73hd73h6h6rhr3b83k30k29hdjhynwe93275y34ngruerthgr56h4
+[16, 16]
+0.01
+canny_trained
